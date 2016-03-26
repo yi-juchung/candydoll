@@ -10,7 +10,6 @@
 2. Home page
 
 # TODOs
-Comming up
 1. Travis CI
 2. React integration
 3. Pinterest style product list
